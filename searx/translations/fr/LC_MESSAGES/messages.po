@@ -23,13 +23,14 @@
 # return42 <return42@users.noreply.translate.codeberg.org>, 2024.
 # Vulcain <Vulcain@users.noreply.translate.codeberg.org>, 2024.
 # wags07 <wags07@users.noreply.translate.codeberg.org>, 2024.
+# Aeris1One <Aeris1One@users.noreply.translate.codeberg.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: searx\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-27 09:53+0000\n"
-"PO-Revision-Date: 2024-07-30 08:18+0000\n"
-"Last-Translator: wags07 <wags07@users.noreply.translate.codeberg.org>\n"
+"POT-Creation-Date: 2024-08-08 10:01+0000\n"
+"PO-Revision-Date: 2024-08-14 16:18+0000\n"
+"Last-Translator: Aeris1One <Aeris1One@users.noreply.translate.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/searxng/"
 "searxng/fr/>\n"
 "Language: fr\n"
@@ -529,17 +530,15 @@ msgstr "Convertit les chaînes de caractères en différents condensés de hacha
 msgid "hash digest"
 msgstr "hash digest"
 
-#: searx/plugins/hostname_replace.py:7
-msgid "Hostname replace"
-msgstr "Remplacer les noms de domaine"
-
-#: searx/plugins/hostnames.py:101
+#: searx/plugins/hostnames.py:91
 msgid "Hostnames plugin"
 msgstr "Plugin de noms d’hôtes"
 
-#: searx/plugins/hostnames.py:102
+#: searx/plugins/hostnames.py:92
 msgid "Rewrite hostnames, remove results or prioritize them based on the hostname"
 msgstr ""
+"Réécrire les noms de domaines, supprimer des résultats ou les prioriser en "
+"se basant sur les domaines"
 
 #: searx/plugins/oa_doi_rewrite.py:12
 msgid "Open Access DOI rewrite"
@@ -969,13 +968,12 @@ msgstr "Suggestions"
 msgid "Search language"
 msgstr "Langue de recherche"
 
-#: searx/templates/simple/filters/languages.html:2
-#: searx/templates/simple/filters/languages.html:5
+#: searx/templates/simple/filters/languages.html:4
 #: searx/templates/simple/preferences/language.html:7
 msgid "Default language"
 msgstr "Langue par défaut"
 
-#: searx/templates/simple/filters/languages.html:9
+#: searx/templates/simple/filters/languages.html:8
 #: searx/templates/simple/preferences/language.html:11
 msgid "Auto-detect"
 msgstr "Détection automatique"
@@ -1979,3 +1977,6 @@ msgstr "cacher la vidéo"
 
 #~ msgid "TiB"
 #~ msgstr "Tio"
+
+#~ msgid "Hostname replace"
+#~ msgstr "Remplacer les noms de domaine"
