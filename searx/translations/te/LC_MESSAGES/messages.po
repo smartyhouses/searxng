@@ -7,21 +7,23 @@
 # Markus Heiser <markus.heiser@darmarit.de>, 2022.
 # networkneil <shankyneil1@gmail.com>, 2022.
 # return42 <markus.heiser@darmarit.de>, 2023.
+# sushen23 <sushen23@users.noreply.translate.codeberg.org>, 2024.
 msgid ""
 msgstr ""
-"Project-Id-Version:  searx\n"
+"Project-Id-Version: searx\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-08-08 10:01+0000\n"
-"PO-Revision-Date: 2023-07-09 15:34+0000\n"
-"Last-Translator: return42 <markus.heiser@darmarit.de>\n"
+"POT-Creation-Date: 2024-09-03 15:52+0000\n"
+"PO-Revision-Date: 2024-09-12 14:18+0000\n"
+"Last-Translator: sushen23 <sushen23@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Telugu <https://translate.codeberg.org/projects/searxng/"
+"searxng/te/>\n"
 "Language: te\n"
-"Language-Team: Telugu "
-"<https://translate.codeberg.org/projects/searxng/searxng/te/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.15.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7\n"
+"Generated-By: Babel 2.16.0\n"
 
 #. CONSTANT_NAMES['NO_SUBGROUPING']
 #: searx/searxng.msg
@@ -66,12 +68,12 @@ msgstr "వీడియోలు"
 #. CATEGORY_NAMES['RADIO']
 #: searx/engines/radio_browser.py:103 searx/searxng.msg
 msgid "radio"
-msgstr ""
+msgstr "రేడియో"
 
 #. CATEGORY_NAMES['TV']
 #: searx/searxng.msg
 msgid "tv"
-msgstr ""
+msgstr "టీవీ"
 
 #. CATEGORY_NAMES['IT']
 #: searx/searxng.msg
@@ -171,157 +173,157 @@ msgstr "గురించి"
 #. WEATHER_TERMS['AVERAGE TEMP.']
 #: searx/searxng.msg
 msgid "Average temp."
-msgstr ""
+msgstr "సగటు ఉష్ణోగ్రత"
 
 #. WEATHER_TERMS['CLOUD COVER']
 #: searx/searxng.msg
 msgid "Cloud cover"
-msgstr ""
+msgstr "మేఘం కమ్మటం"
 
 #. WEATHER_TERMS['CONDITION']
 #: searx/searxng.msg
 msgid "Condition"
-msgstr ""
+msgstr "పరిస్థితి"
 
 #. WEATHER_TERMS['CURRENT CONDITION']
 #: searx/searxng.msg
 msgid "Current condition"
-msgstr ""
+msgstr "ప్రస్తుత పరిస్థితి"
 
 #. WEATHER_TERMS['EVENING']
 #: searx/engines/wttr.py:100 searx/searxng.msg
 msgid "Evening"
-msgstr ""
+msgstr "సాయంత్రం"
 
 #. WEATHER_TERMS['FEELS LIKE']
 #: searx/searxng.msg
 msgid "Feels like"
-msgstr ""
+msgstr "అనిపిస్తుంది"
 
 #. WEATHER_TERMS['HUMIDITY']
 #: searx/searxng.msg
 msgid "Humidity"
-msgstr ""
+msgstr "తేమ"
 
 #. WEATHER_TERMS['MAX TEMP.']
 #: searx/searxng.msg
 msgid "Max temp."
-msgstr ""
+msgstr "గరిష్ట ఉష్ణోగ్రత."
 
 #. WEATHER_TERMS['MIN TEMP.']
 #: searx/searxng.msg
 msgid "Min temp."
-msgstr ""
+msgstr "కనిష్ట ఉష్ణోగ్రత."
 
 #. WEATHER_TERMS['MORNING']
 #: searx/engines/wttr.py:100 searx/searxng.msg
 msgid "Morning"
-msgstr ""
+msgstr "ఉదయం"
 
 #. WEATHER_TERMS['NIGHT']
 #: searx/engines/wttr.py:100 searx/searxng.msg
 msgid "Night"
-msgstr ""
+msgstr "రాత్రి"
 
 #. WEATHER_TERMS['NOON']
 #: searx/engines/wttr.py:100 searx/searxng.msg
 msgid "Noon"
-msgstr ""
+msgstr "మధ్యాహ్నం"
 
 #. WEATHER_TERMS['PRESSURE']
 #: searx/searxng.msg
 msgid "Pressure"
-msgstr ""
+msgstr "వాతావరణ పీడనం"
 
 #. WEATHER_TERMS['SUNRISE']
 #: searx/searxng.msg
 msgid "Sunrise"
-msgstr ""
+msgstr "సూర్యోదయం"
 
 #. WEATHER_TERMS['SUNSET']
 #: searx/searxng.msg
 msgid "Sunset"
-msgstr ""
+msgstr "సూర్యాస్తమయం"
 
 #. WEATHER_TERMS['TEMPERATURE']
 #: searx/searxng.msg
 msgid "Temperature"
-msgstr ""
+msgstr "ఉష్ణోగ్రత"
 
 #. WEATHER_TERMS['UV INDEX']
 #: searx/searxng.msg
 msgid "UV index"
-msgstr ""
+msgstr "UV సూచిక"
 
 #. WEATHER_TERMS['VISIBILITY']
 #: searx/searxng.msg
 msgid "Visibility"
-msgstr ""
+msgstr "విసిబిలిటీ"
 
 #. WEATHER_TERMS['WIND']
 #: searx/searxng.msg
 msgid "Wind"
-msgstr ""
+msgstr "గాలి"
 
 #. SOCIAL_MEDIA_TERMS['SUBSCRIBERS']
 #: searx/searxng.msg
 msgid "subscribers"
-msgstr ""
+msgstr "సుబ్స్చ్రిబెర్ లు"
 
 #. SOCIAL_MEDIA_TERMS['POSTS']
 #: searx/searxng.msg
 msgid "posts"
-msgstr ""
+msgstr "పోస్ట్ లు"
 
 #. SOCIAL_MEDIA_TERMS['ACTIVE USERS']
 #: searx/searxng.msg
 msgid "active users"
-msgstr ""
+msgstr "ఆక్టివ్ యూసర్ లు"
 
 #. SOCIAL_MEDIA_TERMS['COMMENTS']
 #: searx/searxng.msg
 msgid "comments"
-msgstr ""
+msgstr "కామెంట్ లు"
 
 #. SOCIAL_MEDIA_TERMS['USER']
 #: searx/searxng.msg
 msgid "user"
-msgstr ""
+msgstr "యూసర్"
 
 #. SOCIAL_MEDIA_TERMS['COMMUNITY']
 #: searx/searxng.msg
 msgid "community"
-msgstr ""
+msgstr "కమ్యూనిటీ"
 
 #. SOCIAL_MEDIA_TERMS['POINTS']
 #: searx/searxng.msg
 msgid "points"
-msgstr ""
+msgstr "పాయింట్ లు"
 
 #. SOCIAL_MEDIA_TERMS['TITLE']
 #: searx/searxng.msg
 msgid "title"
-msgstr ""
+msgstr "టైటిల్"
 
 #. SOCIAL_MEDIA_TERMS['AUTHOR']
 #: searx/searxng.msg
 msgid "author"
-msgstr ""
+msgstr "రచయిత"
 
 #. SOCIAL_MEDIA_TERMS['THREAD OPEN']
 #: searx/engines/discourse.py:149 searx/searxng.msg
 msgid "open"
-msgstr ""
+msgstr "ఓపెన్"
 
 #. SOCIAL_MEDIA_TERMS['THREAD CLOSED']
 #: searx/engines/discourse.py:149 searx/searxng.msg
 msgid "closed"
-msgstr ""
+msgstr "క్లోస్డ్"
 
 #. SOCIAL_MEDIA_TERMS['THREAD ANSWERED']
 #: searx/engines/discourse.py:160 searx/searxng.msg
 msgid "answered"
-msgstr ""
+msgstr "సమాధానమిచ్చారు"
 
 #: searx/webapp.py:330
 msgid "No item found"
@@ -336,7 +338,7 @@ msgstr "మూలం"
 msgid "Error loading the next page"
 msgstr "తదుపరి పేజీని లోడ్ చేయడంలో లోపం"
 
-#: searx/webapp.py:491 searx/webapp.py:887
+#: searx/webapp.py:491 searx/webapp.py:894
 msgid "Invalid settings, please edit your preferences"
 msgstr "చెల్లని సెట్టింగ్‌లు, దయచేసి మీ ప్రాధాన్యతలను సవరించండి"
 
@@ -366,7 +368,7 @@ msgstr "నెట్వర్క్ లోపం"
 
 #: searx/webutils.py:40
 msgid "SSL error: certificate validation has failed"
-msgstr ""
+msgstr "SSL లోపం: సర్టిఫికేట్ ధ్రువీకరణ విఫలమైంది"
 
 #: searx/webutils.py:42
 msgid "unexpected crash"
@@ -446,15 +448,15 @@ msgstr "ఛానెల్"
 
 #: searx/engines/radio_browser.py:105
 msgid "bitrate"
-msgstr ""
+msgstr "బిట్రేట్"
 
 #: searx/engines/radio_browser.py:106
 msgid "votes"
-msgstr ""
+msgstr "ఓట్లు"
 
 #: searx/engines/radio_browser.py:107
 msgid "clicks"
-msgstr ""
+msgstr "క్లిక్‌లు"
 
 #: searx/engines/seekr.py:193 searx/engines/yummly.py:71
 #: searx/engines/zlibrary.py:137
@@ -466,35 +468,41 @@ msgid ""
 "{numCitations} citations from the year {firstCitationVelocityYear} to "
 "{lastCitationVelocityYear}"
 msgstr ""
+"{firstCitationVelocityYear} సంవత్సరం నుండి {lastCitationVelocityYear} వరకు "
+"{numCitations}"
 
-#: searx/engines/tineye.py:39
+#: searx/engines/tineye.py:45
 msgid ""
 "Could not read that image url. This may be due to an unsupported file "
 "format. TinEye only supports images that are JPEG, PNG, GIF, BMP, TIFF or"
 " WebP."
 msgstr ""
+"ఆ చిత్ర urlని చదవడం సాధ్యపడలేదు. ఇది సపోర్ట్ లేని ఫైల్ ఫార్మాట్ వల్ల అయి ఉండవచ్చు. TinEye JPEG, PNG, "
+"GIF, BMP, TIFF లేదా WebP చిత్రాలకు మాత్రమే సపోర్ట్ ఇస్తుంది."
 
-#: searx/engines/tineye.py:45
+#: searx/engines/tineye.py:51
 msgid ""
 "The image is too simple to find matches. TinEye requires a basic level of"
 " visual detail to successfully identify matches."
 msgstr ""
+"చిత్రం సరిపోలికలను కనుగొనడానికి చాలా సాధారణంగా ఉంది. మ్యాచ్‌లను సక్రమంగా గుర్తించడానికి TinEyeకి ప్రాథమిక స్థాయి దృశ్య "
+"వివరాలు అవసరం."
 
-#: searx/engines/tineye.py:51
+#: searx/engines/tineye.py:57
 msgid "The image could not be downloaded."
-msgstr ""
+msgstr "చిత్రాన్ని డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు."
 
 #: searx/engines/zlibrary.py:138
 msgid "Book rating"
-msgstr ""
+msgstr "పుస్తకం రేటింగు"
 
 #: searx/engines/zlibrary.py:139
 msgid "File quality"
-msgstr ""
+msgstr "ఫైలు క్వాలిటీ"
 
 #: searx/plugins/calculator.py:12
 msgid "Calculate mathematical expressions via the search bar"
-msgstr ""
+msgstr "సెర్చ్ బార్ ద్వారా గణిత సమీకరణలను లెక్కించండి"
 
 #: searx/plugins/hash_plugin.py:10
 msgid "Converts strings to different hash digests."
@@ -504,11 +512,11 @@ msgstr "స్ట్రింగ్‌లను విభిన్న హాష�
 msgid "hash digest"
 msgstr "హాష్ డైజెస్ట్"
 
-#: searx/plugins/hostnames.py:91
+#: searx/plugins/hostnames.py:103
 msgid "Hostnames plugin"
 msgstr ""
 
-#: searx/plugins/hostnames.py:92
+#: searx/plugins/hostnames.py:104
 msgid "Rewrite hostnames, remove results or prioritize them based on the hostname"
 msgstr ""
 
@@ -688,7 +696,7 @@ msgstr "పై సమాచారంతో సహా Github పై కొత్�
 msgid "No HTTPS"
 msgstr "HTTPS లేదు"
 
-#: searx/templates/simple/elements/engines_msg.html:18
+#: searx/templates/simple/elements/engines_msg.html:14
 #: searx/templates/simple/preferences.html:69
 #: searx/templates/simple/preferences.html:70
 msgid "View error logs and submit a bug report"
@@ -769,19 +777,19 @@ msgstr "ఫలితముల సంఖ్య"
 msgid "Info"
 msgstr ""
 
-#: searx/templates/simple/results.html:77
+#: searx/templates/simple/results.html:75
 msgid "Try searching for:"
 msgstr "దీనికొరకు శోధించండి:"
 
-#: searx/templates/simple/results.html:109
+#: searx/templates/simple/results.html:107
 msgid "Back to top"
 msgstr "తిరిగి పైకి"
 
-#: searx/templates/simple/results.html:127
+#: searx/templates/simple/results.html:125
 msgid "Previous page"
 msgstr "ముందు పేజి"
 
-#: searx/templates/simple/results.html:145
+#: searx/templates/simple/results.html:143
 msgid "Next page"
 msgstr "తరువాతి పేజీ"
 
@@ -821,6 +829,7 @@ msgstr "స్కోర్లు"
 msgid "Result count"
 msgstr "ఫలితాల గణన"
 
+#: searx/templates/simple/elements/engines_msg.html:7
 #: searx/templates/simple/preferences/engines.html:31
 #: searx/templates/simple/stats.html:28
 msgid "Response time"
@@ -896,17 +905,13 @@ msgstr "వ్యాఖ్య(లు)"
 msgid "Download results"
 msgstr "ఫలితాలను దింపుకోండి"
 
-#: searx/templates/simple/elements/engines_msg.html:7
+#: searx/templates/simple/elements/engines_msg.html:4
 msgid "Messages from the search engines"
 msgstr ""
 
-#: searx/templates/simple/elements/engines_msg.html:12
-msgid "Error!"
-msgstr "దోషం!"
-
-#: searx/templates/simple/elements/engines_msg.html:13
-msgid "Engines cannot retrieve results"
-msgstr "యంత్రాలు ఫలితాలను రాబట్టలేకపోతున్నాయి"
+#: searx/templates/simple/elements/engines_msg.html:7
+msgid "seconds"
+msgstr ""
 
 #: searx/templates/simple/elements/search_url.html:3
 msgid "Search URL"
@@ -1897,3 +1902,8 @@ msgstr "వీడియోను దాచిపెట్టు"
 #~ msgid "Hostname replace"
 #~ msgstr "హోస్ట్ పేరు భర్తీ"
 
+#~ msgid "Error!"
+#~ msgstr "దోషం!"
+
+#~ msgid "Engines cannot retrieve results"
+#~ msgstr "యంత్రాలు ఫలితాలను రాబట్టలేకపోతున్నాయి"
