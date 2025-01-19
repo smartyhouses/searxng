@@ -18,16 +18,21 @@
 # return42 <markus.heiser@darmarit.de>, 2023, 2024.
 # 0que <0que@users.noreply.translate.codeberg.org>, 2023.
 # mittwerk <w0o0y8jt@duck.com>, 2023.
-# 0ko <0ko@users.noreply.translate.codeberg.org>, 2024.
-# return42 <return42@users.noreply.translate.codeberg.org>, 2024.
+# 0ko <0ko@users.noreply.translate.codeberg.org>, 2024, 2025.
+# return42 <return42@users.noreply.translate.codeberg.org>, 2024, 2025.
 # Xvnov <Xvnov@users.noreply.translate.codeberg.org>, 2024.
+# Xvnov <xvnov@users.noreply.translate.codeberg.org>, 2025.
+# Anonymous <anonymous@users.noreply.translate.codeberg.org>, 2025.
+# mittwerk <mittwerk@users.noreply.translate.codeberg.org>, 2025.
+# BalkanMadman <balkanmadman@users.noreply.translate.codeberg.org>, 2025.
+# AHOHNMYC <ahohnmyc@users.noreply.translate.codeberg.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version:  searx\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-12-01 12:14+0000\n"
-"PO-Revision-Date: 2024-11-25 12:40+0000\n"
-"Last-Translator: return42 <return42@users.noreply.translate.codeberg.org>"
+"POT-Creation-Date: 2025-01-06 16:16+0000\n"
+"PO-Revision-Date: 2025-01-06 15:53+0000\n"
+"Last-Translator: AHOHNMYC <ahohnmyc@users.noreply.translate.codeberg.org>"
 "\n"
 "Language: ru\n"
 "Language-Team: Russian "
@@ -371,15 +376,15 @@ msgstr "Источник"
 msgid "Error loading the next page"
 msgstr "Не удалось загрузить следующую страницу"
 
-#: searx/webapp.py:496 searx/webapp.py:904
+#: searx/webapp.py:492 searx/webapp.py:900
 msgid "Invalid settings, please edit your preferences"
 msgstr "Неправильные параметры, пожалуйста измените ваши настройки"
 
-#: searx/webapp.py:512
+#: searx/webapp.py:508
 msgid "Invalid settings"
 msgstr "Неверные настройки"
 
-#: searx/webapp.py:589 searx/webapp.py:679
+#: searx/webapp.py:585 searx/webapp.py:675
 msgid "search error"
 msgstr "ошибка поиска"
 
@@ -719,7 +724,7 @@ msgstr "через прокси"
 
 #: searx/templates/simple/new_issue.html:64
 msgid "Start submitting a new issue on GitHub"
-msgstr "Откройте issue на GitHub"
+msgstr "Создайте задачу на GitHub"
 
 #: searx/templates/simple/new_issue.html:66
 msgid "Please check for existing bugs about this engine on GitHub"
@@ -1387,23 +1392,23 @@ msgstr "Изменить язык интерфейса"
 
 #: searx/templates/simple/preferences/urlformatting.html:2
 msgid "URL formatting"
-msgstr ""
+msgstr "Отображение URL"
 
 #: searx/templates/simple/preferences/urlformatting.html:8
 msgid "Pretty"
-msgstr ""
+msgstr "Красивое"
 
 #: searx/templates/simple/preferences/urlformatting.html:13
 msgid "Full"
-msgstr ""
+msgstr "Полное"
 
 #: searx/templates/simple/preferences/urlformatting.html:18
 msgid "Host"
-msgstr ""
+msgstr "Имя хоста"
 
 #: searx/templates/simple/preferences/urlformatting.html:23
 msgid "Change result URL formatting"
-msgstr ""
+msgstr "Формат отражения URL в результатах"
 
 #: searx/templates/simple/result_templates/code.html:13
 msgid "repo"
@@ -2018,4 +2023,7 @@ msgstr "скрыть видео"
 
 #~ msgid "Start submiting a new issue on GitHub"
 #~ msgstr "Откройте issue на GitHub"
+
+#~ msgid "dummy"
+#~ msgstr ""
 
